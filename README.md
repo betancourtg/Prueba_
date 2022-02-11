@@ -10,7 +10,6 @@ Intro a GitHub
 
 > Título
 
->> Subtítulo
 
-Liga [Duck Duck Go] (https://duckduckgo.com).
+
 
